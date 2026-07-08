@@ -1,2 +1,201 @@
 # claims-evidence-upload-ux
 Insurance Claims — Evidence Upload Redesign
+
+*Company name anonymised — available to discuss 
+in interview*
+
+**Role:** Self-initiated UX Researcher & Designer  
+**Domain:** Insurance / Personal Injury Claims  
+**Tools:** Figma, Observational Research  
+**Type:** Concept proposal with business case  
+
+---
+
+## Overview
+
+A self-initiated UX research and design project 
+identifying and solving a critical friction point 
+in the insurance claims evidence submission process.
+
+---
+
+## The Problem
+
+Policyholders were consistently failing to upload 
+supporting evidence for their personal injury claims, 
+creating a cascade of operational problems:
+
+- Claims handlers spending 10–15 minutes per claim 
+  manually chasing evidence
+- Email barriers blocking submission due to file 
+  size limitations
+- WhatsApp upload requests failing or creating 
+  duplicate submissions
+- Missing policyholder contact details causing 
+  further delays
+- Higher inbound call volumes consuming handler 
+  capacity
+
+**Estimated operational cost: £24,000–£38,000 
+per year in excess handler time**
+
+---
+
+## Research Approach
+
+**Method:** Observational research through direct 
+daily operational experience
+
+As a Personal Injury Claims Handler I worked 
+directly with policyholders throughout the 
+evidence collection process, giving me first-hand 
+visibility of failure points from both sides — 
+the policyholder attempting to submit and the 
+handler attempting to receive.
+
+**Core insight:** Policyholders were not unwilling 
+to submit evidence. The submission process itself 
+created too much friction, confusion, and too many 
+points of failure.
+
+**Four failure points identified:**
+
+1. Technical access vulnerabilities in existing 
+   upload channels
+2. Email file size limits blocking evidence 
+   submission entirely
+3. WhatsApp upload failures and duplicate sends 
+   creating confusion
+4. Missing contact information preventing proactive 
+   outreach
+
+---
+
+## The Solution
+
+A guided evidence upload flow embedded within the 
+existing policyholder mobile app, integrated 
+directly with the internal claims management CRM.
+
+**User flow:**
+Push notification sent to policyholder device
+->
+Policyholder inputs claim reference details
+(policy number, claim number, date of incident)
+->
+Evidence uploaded via drag and drop interface
+(PDF, JPG, JPEG, PNG, HEIC — max 10MB)
+->
+Validation against CRM database confirms
+evidence reaches correct claim
+->
+Email confirmation receipt sent to policyholder
+->
+Evidence received directly in claims CRM
+---
+
+## Key Design Decisions
+
+**Push notification trigger**
+Removes reliance on policyholder initiative — 
+the single biggest reason evidence was not 
+submitted. Handler sends request, policyholder 
+receives direct prompt.
+
+**Structured form with CRM validation**
+Policy number, claim reference and date of loss 
+validated against database records before 
+submission is accepted. Ensures GDPR compliance 
+and creates a clean audit trail.
+
+**Explicit error states designed**
+Two primary error states built:
+- Information not found — guides user to verify 
+  their details with specific field-level prompts
+- Incorrect file format — clearly communicates 
+  accepted formats with a direct retry path
+
+Both error states include contact details for 
+immediate handler support, preventing abandonment.
+
+**Confirmation receipt**
+Full upload summary emailed to policyholder 
+including claim number, upload timestamp, and 
+file list. Reduces follow-up anxiety and 
+eliminates repeat contact to confirm receipt.
+
+---
+
+## Projected Business Impact
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Handler time per evidence chase | 10–15 mins | 0 mins |
+| Annual cost of manual chasing | £24–38k | Minimal |
+| Evidence submission channel | Email/WhatsApp | In-app guided flow |
+| GDPR audit trail | Inconsistent | Automated |
+| Policyholder confusion on next steps | High | Eliminated |
+
+---
+
+## What I Would Validate Next
+
+Before development I would run the following 
+research to validate design assumptions:
+
+**Usability testing**
+- 5 policyholders recruited across age groups 
+  and varying levels of tech literacy
+- Moderated task: submit evidence without 
+  handler assistance
+- Measure task completion rate, error frequency, 
+  and time on task
+
+**Key assumptions to test:**
+- Can policyholders locate the notification and 
+  open the upload flow without guidance?
+- Is the claim reference input clear enough to 
+  complete without calling for help?
+- Do the error messages resolve confusion 
+  independently or do users still abandon?
+
+**Post-launch metrics (30/60/90 days):**
+- Evidence upload completion rate vs baseline
+- Inbound call volume related to evidence queries
+- Average claim lifecycle length
+- SLA compliance rate
+- Handler time spent on evidence chasing
+
+---
+
+## Figma Prototype
+
+see figma section. 
+
+---
+
+## What This Project Demonstrates
+
+- Research-led problem identification from 
+  direct operational experience
+- Business impact quantification before 
+  design begins
+- End-to-end UX thinking — notification trigger 
+  through to CRM integration
+- Error state design with compliance and 
+  audit trail awareness
+- Validation planning — knowing what to test 
+  before shipping
+
+---
+
+## Reflection
+
+The most valuable part of this project was 
+learning to frame a user problem in business 
+terms before touching Figma. The £24-38k 
+annual cost estimate made the case for 
+investment far more compelling than describing 
+the user frustration alone. That combination — 
+human insight backed by operational data — is 
+what I want to bring to every research project.
