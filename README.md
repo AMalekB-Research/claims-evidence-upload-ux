@@ -170,7 +170,7 @@ research to validate design assumptions:
 
 ## Figma Prototype
 
-see figma section. 
+[view screens](figma-screens/)
 
 ---
 
