@@ -111,16 +111,6 @@ to submit evidence. The submission process itself
 created too much friction, confusion, and too many 
 points of failure.
 
-**Four failure points identified:**
-
-1. Technical access vulnerabilities in existing 
-   upload channels
-2. Email file size limits blocking evidence 
-   submission entirely
-3. WhatsApp upload failures and duplicate sends 
-   creating confusion
-4. Missing contact information preventing proactive 
-   outreach
 
 #### Research Limitations
 
@@ -166,6 +156,12 @@ validated against database records before
 submission is accepted. Ensures GDPR compliance 
 and creates a clean audit trail.
 
+**Confirmation receipt**
+Full upload summary emailed to policyholder 
+including claim number, upload timestamp, and 
+file list. Reduces follow-up anxiety and 
+eliminates repeat contact to confirm receipt.
+
 **Explicit error states designed**
 Two primary error states built:
 - Information not found — guides user to verify 
@@ -176,11 +172,6 @@ Two primary error states built:
 Both error states include contact details for 
 immediate handler support, preventing abandonment.
 
-**Confirmation receipt**
-Full upload summary emailed to policyholder 
-including claim number, upload timestamp, and 
-file list. Reduces follow-up anxiety and 
-eliminates repeat contact to confirm receipt.
 
 ## Figma Prototype
 
