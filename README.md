@@ -15,7 +15,7 @@ in interview*
 
 As a personal injury claims handler at a mid-sized UK motor insurance provider, 
 I have seen first hand the pain points both the customer and employees experience.
-This naturalistic obesrvation research task, 
+This naturalistic observation research task, 
 was based directly on these observations over the 2.8 years I have been working in the role, 
 handling inbound claims start to finish along with manning phonelines. 
 I identified a critical friction point in the evidence submission
@@ -26,7 +26,7 @@ journey that was costing the business an estimated
 ## The Problem Statement 
 
 Policyholders were failing to submit supporting evidence for their claims, 
-inturn causing manual intervention by handlers,
+in turn causing manual intervention by handlers,
 delayed settlements and increased operational costs. 
 Despite being willing and cooperative. 
 This was not a motivation problem — it was a process design problem.
@@ -45,30 +45,6 @@ across 2.8 years in a real operational setting,
 giving direct visibility of failure points from 
 both sides — the policyholder attempting to 
 submit and the handler attempting to receive.
-
-
-#### Four Core Failure Points Identified
-
-**1. Email barriers**
-File size limits silently blocked photo 
-submissions — the most common evidence type — 
-with no clear error message shown to the user.
-
-**2. WhatsApp upload failures**
-Compressed file resolution made evidence 
-unusable. Duplicate sends created confusion. 
-No submission confirmation was possible.
-
-**3. Missing contact information**
-Incomplete policyholder details prevented 
-proactive outreach, forcing handlers to 
-wait for inbound contact.
-
-**4. Technical access barriers**
-Users with lower digital literacy defaulted 
-to phone calls rather than digital submission, 
-consuming handler time that better design 
-could have prevented.
 
 
 #### Psychology Frameworks Applied
@@ -106,6 +82,29 @@ handler attempting to receive.
 to submit evidence. The submission process itself 
 created too much friction, confusion, and too many 
 points of failure.
+
+#### Four Core Failure Points Identified
+
+**1. Email barriers**
+File size limits silently blocked photo 
+submissions — the most common evidence type — 
+with no clear error message shown to the user.
+
+**2. WhatsApp upload failures**
+Compressed file resolution made evidence 
+unusable. Duplicate sends created confusion. 
+No submission confirmation was possible.
+
+**3. Missing contact information**
+Incomplete policyholder details prevented 
+proactive outreach, forcing handlers to 
+wait for inbound contact.
+
+**4. Technical access barriers**
+Users with lower digital literacy defaulted 
+to phone calls rather than digital submission, 
+consuming handler time that better design 
+could have prevented.
 
 
 #### Research Limitations
