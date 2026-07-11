@@ -78,20 +78,7 @@ existing policyholder mobile app, integrated
 directly with the internal claims management CRM.
 
 **User flow:**
-Push notification sent to policyholder device
-->
-Policyholder inputs claim reference details
-(policy number, claim number, date of incident)
-->
-Evidence uploaded via drag and drop interface
-(PDF, JPG, JPEG, PNG, HEIC — max 10MB)
-->
-Validation against CRM database confirms
-evidence reaches correct claim
-->
-Email confirmation receipt sent to policyholder
-->
-Evidence received directly in claims CRM
+
 <img width="2600" height="620" alt="evidence_upload_flow_v4" src="https://github.com/user-attachments/assets/8e89c933-9894-4455-a94d-5cde65f3e4b0" />
 ---
 
