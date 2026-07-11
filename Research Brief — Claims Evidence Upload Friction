@@ -79,3 +79,19 @@ claims management CRM.
 
 ### User Flow
 
+Handler triggers evidence request
+↓
+Push notification sent to policyholder device
+↓
+Policyholder opens app and inputs claim details
+(policy number, claim reference, date of incident)
+↓
+CRM validates details — evidence routes
+to correct claim automatically
+↓
+Policyholder uploads evidence via
+drag and drop interface
+↓
+Email confirmation receipt sent to policyholder
+↓
+Evidence received directly in CRM
