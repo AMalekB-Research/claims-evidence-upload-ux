@@ -13,31 +13,73 @@ in interview*
 
 ## Overview
 
-A self-initiated UX research and design project 
-identifying and solving a critical friction point 
-in the insurance claims evidence submission process.
+As a personal injury claims hander at a mid-sized UK motor insurance provider, 
+I have seen first hand the pain points both the cutomer and employees experience.
+This naturalistic oberservation reseach taks, 
+was based directly on these observations over the 2.8 years I have been working in the role, 
+handling inbound claims start to finsih along with manning phonelines. 
+I identified a critical friction point in the evidence submission
+journey that was costing the business an estimated 
+£24,000–£38,000 per year in excess handler time.
 
 ---
+## The Problem Statment 
 
-## The Problem
+Policyholders were failing to submit supporting eviednce for their claims, 
+inturn causing manual intervetion by handlers,
+delays settlements and increased operational costs. 
+Despite being willing and cooperative. 
+This was not a motivation problem — it was a process design problem.
 
-Policyholders were consistently failing to upload 
-supporting evidence for their personal injury claims, 
-creating a cascade of operational problems:
+**Key observation:** Policyholders were not 
+unwilling to submit evidence.
+The process itself was failing them silently.
 
-- Claims handlers spending 10–15 minutes per claim 
-  manually chasing evidence
-- Email barriers blocking submission due to file 
-  size limitations
-- WhatsApp upload requests failing or creating 
-  duplicate submissions
-- Missing policyholder contact details causing 
-  further delays
-- Higher inbound call volumes consuming handler 
-  capacity
 
-**Estimated operational cost: £24,000–£38,000 
-per year in excess handler time**
+### Design Process
+Empathise → Define → Ideate → Prototype → Test
+
+
+#### Four Core Failure Points Identified
+
+**1. Email barriers**
+File size limits silently blocked photo 
+submissions — the most common evidence type — 
+with no clear error message shown to the user.
+
+**2. WhatsApp upload failures**
+Compressed file resolution made evidence 
+unusable. Duplicate sends created confusion. 
+No submission confirmation was possible.
+
+**3. Missing contact information**
+Incomplete policyholder details prevented 
+proactive outreach, forcing handlers to 
+wait for inbound contact.
+
+**4. Technical access barriers**
+Users with lower digital literacy defaulted 
+to phone calls rather than digital submission, 
+consuming handler time that better design 
+could have prevented.
+
+
+#### Psychology Frameworks Applied
+
+My BSc Psychology background directly 
+informed how I interpreted these observations:
+
+- **Cognitive Load Theory** — the existing 
+  process placed excessive decision burden 
+  on policyholders at an already stressful moment
+- **Learned Helplessness** — repeated failed 
+  attempts caused users to abandon digital 
+  submission entirely
+- **Nielsen's Heuristic 1** — visibility of 
+  system status was completely absent, leaving 
+  users with no feedback on whether their 
+  submission had succeeded or failed
+
 
 ---
 
