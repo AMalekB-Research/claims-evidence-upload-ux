@@ -13,21 +13,21 @@ in interview*
 
 ## Overview
 
-As a personal injury claims hander at a mid-sized UK motor insurance provider, 
-I have seen first hand the pain points both the cutomer and employees experience.
-This naturalistic oberservation reseach taks, 
+As a personal injury claims handler at a mid-sized UK motor insurance provider, 
+I have seen first hand the pain points both the customer and employees experience.
+This naturalistic obesrvation research task, 
 was based directly on these observations over the 2.8 years I have been working in the role, 
-handling inbound claims start to finsih along with manning phonelines. 
+handling inbound claims start to finish along with manning phonelines. 
 I identified a critical friction point in the evidence submission
 journey that was costing the business an estimated 
 £24,000–£38,000 per year in excess handler time.
 
 ---
-## The Problem Statment 
+## The Problem Statement 
 
-Policyholders were failing to submit supporting eviednce for their claims, 
-inturn causing manual intervetion by handlers,
-delays settlements and increased operational costs. 
+Policyholders were failing to submit supporting evidence for their claims, 
+inturn causing manual intervention by handlers,
+delayed settlements and increased operational costs. 
 Despite being willing and cooperative. 
 This was not a motivation problem — it was a process design problem.
 
