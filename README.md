@@ -40,6 +40,12 @@ The process itself was failing them silently.
 ### Design Process
 Empathise → Define → Ideate → Prototype → Test
 
+**Method:** Qualitative naturalistic observation 
+across 2.8 years in a real operational setting, 
+giving direct visibility of failure points from 
+both sides — the policyholder attempting to 
+submit and the handler attempting to receive.
+
 
 #### Four Core Failure Points Identified
 
@@ -120,6 +126,16 @@ Test section below.
 
 ---
 
+## Projected Business Impact
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Handler time per evidence chase | 10–15 mins | 0 mins |
+| Annual cost of manual chasing | £24–38k | Minimal |
+| Evidence submission channel | Email/WhatsApp | In-app guided flow |
+| GDPR audit trail | Inconsistent | Automated |
+| Policyholder confusion on next steps | High | Eliminated |
+
 ## The Solution
 
 A guided evidence upload flow embedded within the 
@@ -169,18 +185,6 @@ immediate handler support, preventing abandonment.
 
 ---
 
-## Projected Business Impact
-
-| Metric | Before | After |
-|--------|--------|-------|
-| Handler time per evidence chase | 10–15 mins | 0 mins |
-| Annual cost of manual chasing | £24–38k | Minimal |
-| Evidence submission channel | Email/WhatsApp | In-app guided flow |
-| GDPR audit trail | Inconsistent | Automated |
-| Policyholder confusion on next steps | High | Eliminated |
-
----
-
 ## What I Would Validate Next
 
 Before development I would run the following 
@@ -221,20 +225,25 @@ research to validate design assumptions:
 | Handler time on evidence chasing | Near zero |
 ---
 
-## What This Project Demonstrates
+## Conclusion
 
-- Research-led problem identification from 
-  direct operational experience
-- Business impact quantification before 
-  design begins
-- End-to-end UX thinking — notification trigger 
-  through to CRM integration
-- Error state design with compliance and 
-  audit trail awareness
-- Validation planning — knowing what to test 
-  before shipping
+**Silence is the biggest UX failure**
+The process failed silently — submissions appeared to send but didn't deliver. 
+Visible system status is non-negotiable for high-stakes user journeys.
+
+**Stress context changes everything**
+Policyholders submitting evidence are not 
+neutral users completing a routine task. 
+Designing for emotional context — not just functional flow — is essential.
+
+**Quantifying the problem changes 
+the conversation**
+Framing this as a £24–38k operational cost 
+rather than a user frustration gives UX research organisational traction.
+Speaking in business terms is a research skill.
 
 ---
+** Reflection
 
 The most valuable lesson from this project was that being closest to the problem 
 doesn't mean you automatically see the solution. 
