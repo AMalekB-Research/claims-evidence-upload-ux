@@ -95,3 +95,138 @@ drag and drop interface
 Email confirmation receipt sent to policyholder
 ↓
 Evidence received directly in CRM
+
+
+## Prototype
+
+### Sample Screens
+
+![Claim information form](figma-screens/02-claim-information-form.png)
+
+*Step 2 — Policyholder inputs claim details. 
+Clear, bold labels reduce cognitive load 
+at a stressful moment.*
+
+![Evidence upload interface](figma-screens/03-upload-interface.png)
+
+*Step 3 — Drag and drop evidence upload. 
+Accepted formats and file size limits 
+clearly communicated upfront.*
+
+![Confirmation receipt](figma-screens/04-confirmation-receipt.png)
+
+*Step 4 — Full confirmation receipt emailed 
+to policyholder. Eliminates follow-up 
+anxiety and repeat inbound contact.*
+
+### Error States
+
+![Error — information not found](figma-screens/05-error-information-not-found.png)
+
+*Claim details not matched — user guided 
+to verify specific fields with direct 
+support contact visible.*
+
+![Error — incorrect file format](figma-screens/06-error-incorrect-file-format.png)
+
+*Unsupported file format — accepted formats 
+listed clearly with a direct retry path.*
+
+### Clickable Prototype
+
+[View interactive prototype in Figma →](your figma link here)
+
+---
+
+## Test
+
+### Usability Testing Plan
+
+*This project reached concept stage — 
+formal testing is the proposed next phase.*
+
+I would validate the prototype through 
+moderated usability testing with 5–8 
+policyholders recruited across:
+
+- Age groups (digital natives vs less 
+  tech-confident users)
+- Claim types (vehicle damage, personal 
+  injury, property)
+- Device types (iOS and Android)
+
+**Tasks I would set participants:**
+
+1. Submit three pieces of evidence for 
+   a fictional claim using only the app
+2. Recover from an intentional error 
+   state without handler assistance
+3. Locate and interpret the confirmation 
+   receipt email
+
+**Metrics I would measure:**
+
+- Task completion rate
+- Error frequency and recovery rate  
+- Time on task
+- Qualitative feedback on confusion points
+
+**Post-launch metrics (30/60/90 days):**
+
+- Evidence upload completion rate vs baseline
+- Inbound call volume related to evidence queries
+- Average claim lifecycle reduction
+- SLA compliance improvement rate
+
+---
+
+## Conclusion
+
+### Insights
+
+**Silence is the biggest UX failure**
+The existing process failed silently — 
+submissions appeared to send but didn't 
+deliver. Visible system status is 
+non-negotiable for high-stakes submissions.
+
+**Stress context changes everything**
+Policyholders submitting evidence are not 
+neutral users completing a routine task. 
+Designing for emotional context — not 
+just functional flow — is essential.
+
+**Quantifying the problem changed 
+the conversation**
+Framing this as a £24–38k operational 
+cost rather than a user frustration gives 
+UX research organisational traction.
+
+### Next Steps
+
+- Conduct moderated usability testing 
+  with real policyholders
+- Iterate on error state copy based on 
+  participant feedback
+- Quantify business impact estimate with 
+  audited operational data
+- Present to internal stakeholders for 
+  development scoping
+
+### Reflection
+
+The most valuable lesson from this project was that being closest to the problem 
+doesn't mean you automatically see the solution. 
+It took stepping back from the daily operational noise, applying a 
+research lens, and asking *why* policyholders were behaving as they were — not just 
+*that* they were — before the solution became obvious.
+
+My psychology background made that shift natural. 
+Combining it with UX methodology gave it structure.
+
+---
+
+*Company name anonymised due to confidentiality 
+— full context available to discuss in interview.*
+
+*Thank you for reading — feedback always welcome.*
