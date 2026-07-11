@@ -31,16 +31,6 @@ delayed settlements and increased operational costs.
 Despite being willing and cooperative. 
 This was not a motivation problem — it was a process design problem.
 
-### Business Impact
-
-| Metric | Current State |
-|--------|--------------|
-| Handler time per evidence chase | 10–15 mins |
-| Annual cost of manual chasing | £24,000–£38,000 |
-| Evidence submission channel | Email / WhatsApp |
-| GDPR audit trail | Inconsistent |
-| Policyholder confusion post-submission | High |
-
 
 **Key observation:** Policyholders were not 
 unwilling to submit evidence.
