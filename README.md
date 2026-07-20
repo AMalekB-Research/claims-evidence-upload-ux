@@ -152,7 +152,7 @@ directly with the internal claims management CRM.
 Removes reliance on policyholder initiative — 
 the single biggest reason evidence was not 
 submitted. Handler sends request, policyholder 
-receives direct prompt. 
+receives direct prompt, which takes the user to the home page showing claim status and incurred costs. 
 Removing reliance on users to remember to submit.
 
 **Structured form with CRM validation**
