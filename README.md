@@ -6,7 +6,7 @@ in interview*
 
 **Role:** Self-initiated UX Researcher & Designer  
 **Domain:** Insurance / Personal Injury Claims  
-**Tools:** Figma, Observational Research  
+**Tools:** Figma, Figma AI (Used to accelerate screen prototyping) & Observational Research  
 **Type:** Concept proposal with business case  
 
 ---
@@ -17,10 +17,19 @@ As a personal injury claims handler at a mid-sized UK motor insurance provider,
 I have seen first hand the pain points both the customer and employees experience.
 This naturalistic observation research task, 
 was based directly on these observations over the 2.8 years I have been working in the role, 
-handling inbound claims start to finish along with manning phonelines. 
+handling inbound claims from start to finish along with manning phonelines. 
 I identified a critical friction point in the evidence submission
 journey that was costing the business an estimated 
 £24,000–£38,000 per year in excess handler time.
+
+--
+## Context
+
+This is a self initiated portfolio project, uncommissioned - 
+the employer is anonymised and available for discussion in interview. 
+I did not have access to formal research data or analytics from my employer, 
+this project relies on direct obeservational, research rather than a controlled study.
+
 
 ---
 ## The Problem Statement 
@@ -70,13 +79,6 @@ informed how I interpreted these observations:
 
 **Method:** Observational research through direct 
 daily operational experience
-
-As a Personal Injury Claims Handler I worked 
-directly with policyholders throughout the 
-evidence collection process, giving me first-hand 
-visibility of failure points from both sides — 
-the policyholder attempting to submit and the 
-handler attempting to receive.
 
 **Core insight:** Policyholders were not unwilling 
 to submit evidence. The submission process itself 
