@@ -4,7 +4,7 @@ Insurance Claims — Evidence Upload Redesign
 *Company name anonymised — available to discuss 
 in interview*
 
-**Role:** Self-initiated UX Researcher & Designer  
+**Role:** Self-initiated Product Design & UX research 
 **Domain:** Insurance / Personal Injury Claims  
 **Tools:** Figma, Figma AI (Used to accelerate screen prototyping) & Observational Research  
 **Type:** Concept proposal with business case  
