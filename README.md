@@ -244,7 +244,7 @@ rather than a user frustration gives UX research organisational traction.
 Speaking in business terms is a research skill.
 
 ---
-** Reflection
+## Reflection
 
 The most valuable lesson from this project was that being closest to the problem 
 doesn't mean you automatically see the solution. 
