@@ -182,7 +182,7 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
-![Evidence upload prototype](./Figma-screens/evidence-upload-demo.gif)
+![Home Page](Figma-screens/02-claims%20dashboard.1.png)
 
 [view screens](figma-screens/)
 
