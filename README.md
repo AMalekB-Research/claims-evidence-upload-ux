@@ -140,7 +140,7 @@ Test section below.
 ## The Solution
 
 A guided evidence upload flow embedded within the 
-existing policyholder mobile app, integrated 
+existing policyholder mobile app, which does not currently allow evidence upload,   integrated 
 directly with the internal claims management CRM.
 
 **User flow:**
