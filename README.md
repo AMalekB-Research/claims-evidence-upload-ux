@@ -182,7 +182,11 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
-![Claims dashboard](./figma-screens/02-claims-dashboard-1.png)
+
+
+https://github.com/user-attachments/assets/2dd6f691-d194-4642-aad2-df8fe9caa63c
+
+
 
 [view screens](figma-screens/)
 
