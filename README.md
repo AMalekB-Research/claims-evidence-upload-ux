@@ -182,7 +182,7 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
-![notification screen](figma-screens/01-notifications screen.png)
+![notification screen](figma-screens/01-notifications%20screen.png)
 
 [view screens](figma-screens/)
 
