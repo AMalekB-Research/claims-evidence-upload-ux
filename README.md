@@ -182,6 +182,8 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
+<img width="2600" height="620" alt="01-notifications screen.png" src="[https://github.com/user-attachments/assets/8e89c933-9894-4455-a94d-5cde65f3e4b0](https://github.com/AMalekB-Research/claims-evidence-upload-ux/blob/main/figma-screens/01-notifications%20screen.png)" />
+
 [view screens](figma-screens/)
 
 ---
