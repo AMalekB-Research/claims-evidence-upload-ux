@@ -1,6 +1,10 @@
 # claims-evidence-upload-ux
 Insurance Claims — Evidence Upload Redesign
 
+
+<img width="1474" height="1228" alt="Insurance appFig" src="https://github.com/user-attachments/assets/6e5a9ba6-9e6f-45df-8514-a5cf9b6990e8" />
+
+
 *Company name anonymised — available to discuss 
 in interview*
 
@@ -182,12 +186,13 @@ immediate handler support, preventing abandonment.
 ## Figma Prototype
 
 
+<img width="1434" height="1902" alt="Insurance appFig1" src="https://github.com/user-attachments/assets/9f554659-40e1-4c28-a63c-149489d42557" />
+
+
 
 https://github.com/user-attachments/assets/2dd6f691-d194-4642-aad2-df8fe9caa63c
 
 
-
-[view screens](figma-screens/)
 
 ---
 
