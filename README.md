@@ -10,7 +10,7 @@ in interview*
 
 **Role:** Self-initiated Product Design & UX research    
 **Domain:** FinTech / Motor Insurance  
-**Tools:** Figma, Figma AI (Used to accelerate screen prototyping) & Observational Research  
+**Tools:** Figma, Figma AI (Used to accelerate prototyping) & Observational Research  
 **Type:** Concept proposal with business case  
 
 ---
@@ -185,13 +185,13 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
+below are the initial prototypes created within Figma design.
 
 <img width="1434" height="1902" alt="Insurance appFig1" src="https://github.com/user-attachments/assets/9f554659-40e1-4c28-a63c-149489d42557" />
 
-
+later creating a working prototype using Figma make.
 
 https://github.com/user-attachments/assets/2dd6f691-d194-4642-aad2-df8fe9caa63c
-
 
 
 ---
