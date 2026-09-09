@@ -185,11 +185,11 @@ immediate handler support, preventing abandonment.
 
 ## Figma Prototype
 
-below are the initial prototypes created within Figma design.
+Below are the initial prototypes created within Figma design.
 
 <img width="1434" height="1902" alt="Insurance appFig1" src="https://github.com/user-attachments/assets/9f554659-40e1-4c28-a63c-149489d42557" />
 
-later creating a working prototype using Figma make.
+Later creating a working prototype using Figma make.
 
 https://github.com/user-attachments/assets/2dd6f691-d194-4642-aad2-df8fe9caa63c
 
