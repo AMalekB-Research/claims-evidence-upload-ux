@@ -2,7 +2,7 @@
 Insurance Claims — Evidence Upload Redesign
 
 
-<img width="1474" height="1228" alt="Insurance appFig" src="https://github.com/user-attachments/assets/6e5a9ba6-9e6f-45df-8514-a5cf9b6990e8" />
+<img width="737" height="614" alt="Insurance appFig" src="https://github.com/user-attachments/assets/6e5a9ba6-9e6f-45df-8514-a5cf9b6990e8" />
 
 
 *Company name anonymised — available to discuss 
