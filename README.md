@@ -32,7 +32,7 @@ journey that was costing the business an estimated
 This is a self initiated portfolio project, uncommissioned - 
 the employer is anonymised and available for discussion in interview. 
 I did not have access to formal research data or analytics from my employer, 
-this project relies on direct obeservational, research rather than a controlled study.
+this project relies on direct observational research rather than a controlled study.
 
 
 ---
